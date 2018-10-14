@@ -1,4 +1,4 @@
-#Complaint Management System Project in Python
+#Pharmacy Management System Project in Python
 
 
 ###video Demo - https://youtu.be/eSfkax1PPL4
